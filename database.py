@@ -17,4 +17,4 @@ def create_tables():
  conn.commit()
  print("Tables created successfully.")
     
-create_tables()
+create_tables()  
